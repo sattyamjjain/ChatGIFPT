@@ -1,0 +1,8 @@
+# Ignore all files with .pyc extension
+*.pyc
+
+# Ignore directories named `test`
+test/
+
+# Ignore all files in the `data` directory
+data/*

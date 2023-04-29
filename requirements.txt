@@ -1,0 +1,5 @@
+giphy_client
+flask
+google-cloud-functions
+flask_bcrypt
+openai
